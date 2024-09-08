@@ -14,3 +14,11 @@ This is a simple calculator application developed using Python's Tkinter library
 ## Installation
 
 To run this application, ensure you have Python installed on your system. Tkinter is included with Python, so no additional installation is needed.
+
+### Instructions for Use:
+
+1. **Clone**: Replace `<repository-url>` with the actual URL of your Git repository.
+2. **Directory**: Replace `<project-directory>` with the directory where the project files are located.
+3. **Python File**: Ensure `calculator.py` is the name of the file containing your code.
+
+Feel free to customize any sections as needed!
