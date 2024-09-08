@@ -9,4 +9,3 @@ This is a simple calculator application developed using Python's Tkinter library
 - **Basic Arithmetic Operations**: Addition, subtraction, multiplication, division, and exponentiation.
 - **Error Handling**: Displays an error message if division by zero is attempted.
 - **User Interface**: A simple and intuitive layout with clearly labeled buttons.
-- **Footer**: Displays developer information at the bottom of the window.
