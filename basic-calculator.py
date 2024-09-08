@@ -1,3 +1,7 @@
+# Project: Basic Calculator
+# Application developed by: codewithj4ke - September 2024
+# Learning Python programming with the assistance of AI and online courses
+
 import tkinter as tk
 from tkinter import font
 from functools import partial
